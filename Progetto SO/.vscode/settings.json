@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "wait.h": "c",
+        "cstdlib": "c",
+        "string.h": "c",
+        "type_traits": "c",
+        "time.h": "c",
+        "unistd.h": "c",
+        "msg.h": "c",
+        "stdio.h": "c",
+        "functions.h": "c"
+    }
+}

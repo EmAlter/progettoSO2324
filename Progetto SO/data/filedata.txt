@@ -1,0 +1,9 @@
+Numero atomi iniziali:2
+Numero atomico minimo:10
+Numero atomico massimo:100
+Energia richiesta prelevata dal master:1
+Soglia di esplosione:1000000
+Tempo di simulazione in secondi:300
+Atomi generati da Alimentazione:1
+Step Activator in nanosecondi:2000000000
+Step Alimentazione in nanosecondi:3000
